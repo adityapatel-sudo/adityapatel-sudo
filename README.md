@@ -5,7 +5,7 @@
   - adityapatel1204@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/adityapatel123/)
 - 🎈Check out some of my projects:
-  - [Ease Attendance](easeattendance.com)
+  - [Ease Attendance](https://easeattendance.com/)
   - [Rift for Infinite Campus](https://riftapp.io/)
 
 <!---
