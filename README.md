@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityapatel-sudo.
-- 👀 I’m interested in algorithms and software development!
+- 👀 I’m interested in software development and machine intelligence!
 - 🌱 I’m currently studying CS at Purdue.
 - 📫 How to reach me 
   - adityapatel1204@gmail.com
@@ -7,6 +7,7 @@
 - 🎈Check out some of my projects:
   - [Ease Attendance](https://easeattendance.com/)
   - [Rift for Infinite Campus](https://riftapp.io/)
+  - [myCadences](https://mycadences.com)
 
 <!---
 adityapatel-sudo/adityapatel-sudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
