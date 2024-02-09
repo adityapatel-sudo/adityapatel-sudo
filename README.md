@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying CS at Purdue.
 - 📫 How to reach me 
   - adityapatel1204@gmail.com
+  - [Mu Website](https://www.adityapatel.net)
   - [LinkedIn](https://www.linkedin.com/in/adityapatel123/)
 - 🎈Check out some of my projects:
   - [Ease Attendance](https://easeattendance.com/)
